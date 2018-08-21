@@ -8,7 +8,7 @@ another branch. If it finds a reference that cites the original input website, a
 message: 'Circular citation was detected back to original url - untrustworthy!'
 
 # To Run
-# In the command line, run 'python3 CircularCitationDetector.py [target_url] [MAX_GEN]'
+In the command line, run 'python3 CircularCitationDetector.py [target_url] [MAX_GEN]'
 
 # Input arguments
 target_url: The url to be checked.
