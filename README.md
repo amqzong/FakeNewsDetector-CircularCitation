@@ -1,4 +1,4 @@
-# FakeNewsDetector-CircularReporting
+# Fake News Detector For Circular Reporting
 Helps detect fake news by analyzing the quality of the citations of a given website.
 
 # Motivation
